@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "belajar.android.sharedprefrences"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "belajar.android.sharedprefrences"
